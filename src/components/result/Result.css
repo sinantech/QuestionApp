@@ -1,0 +1,57 @@
+.result-container {
+    width: 60%;
+    min-width: 650px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin:150px;
+  }
+  
+  .score-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .results, .score {
+    flex: 1;
+  }
+  
+  .header {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .result {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .total {
+    font-size: 36px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .result-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .correct-answer {
+    color: green;
+  }
+  
+  .wrong-answer {
+    color: red;
+  }
+  
+  .correct-answer-label {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .correct-answer, .wrong-answer {
+    font-size: 20px;
+  }

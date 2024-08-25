@@ -1,0 +1,16 @@
+* {
+  box-sizing : border-box;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #F1F2F6; /* değiştir*/
+}
+#root {
+  max-width: 1400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
