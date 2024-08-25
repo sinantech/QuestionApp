@@ -2,7 +2,7 @@
 
 This project is a question-answer application developed using HTML, CSS, JavaScript, React, and Vite.
 
-## [Click Here for Live Site](https://queansvgame.netlify.app/)
+## [Click Here for Live Site](https://questionappsinantechs.netlify.app)
 
 ## Installation
 
