@@ -10,7 +10,7 @@ You can follow the steps below to run the project in your local environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rabiacagli/question-app.git
+   git clone https://github.com/sinantech/question-app.git
    ```
 2. Navigate to the project directory:
    ```bash
