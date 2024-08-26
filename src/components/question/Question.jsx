@@ -16,7 +16,7 @@ function Question() {
     useEffect(() => {
       const intervalId = setInterval(() => {
         const answer = document.querySelector(".answer-container");
-        if (timer <= 20 && timer > 0) {
+        if (timer <= 26 && timer > 0) {
           setTimer(timer - 1);
           answer.style.visibility = "visible";
         } else if (timer > 20) {
